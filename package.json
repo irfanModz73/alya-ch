@@ -1,0 +1,15 @@
+{
+  "name": "alya-ch",
+  "version": "1.0.0",
+  "description": "alya-cheerio advance cheerio libary",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "author": "irfan",
+  "license": "MIT"
+}
